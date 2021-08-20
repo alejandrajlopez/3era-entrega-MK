@@ -1,0 +1,44 @@
+{
+"servicios": [
+    {
+        "nombre": "Lectura de Gemas",
+        "precio": 1000,
+        "descripcion": "La lectura de gemas es similar a la lectura de Tarot pero sin simbolos.",
+        "id":1
+        
+    },
+    {
+        "nombre": "Astroterapia",
+        "precio": 900,
+        "descripcion": "La Astroterapia es la fusión perfecta entre la psicoterapia y la Astrología.",
+        "id":2
+    },
+    {
+        "nombre": "Astrología Védica",
+        "precio": 1500,
+        "descripcion": "La Astrología Védica hace enfásis en el trabajo del karma y en el signo lunar",
+        "id":3
+    },
+    {
+        "nombre": "Tarot",
+        "precio": 1200,
+        "descripcion": "La lectura de Tarot es un espejo del alma.",
+        "id":4
+        
+    },
+    {
+        "nombre":"Runas",
+        "precio": 950,
+        "descripcion": "La lectura de Runas te conceta con la magia celta.",
+        "id":5
+    },
+    {
+        "nombre": "Sinastría Védica",
+        "precio": 920,
+        "descripcion": "Este análisis astrológico te ayudará a entender energéticamente a tu pareja.",
+        "id":6
+    }
+]
+}
+
+
